@@ -1,0 +1,89 @@
+h1 {
+    color: palevioletred;
+}
+
+body {
+    font-family: sans-serif;
+    background-image:url('hw1_img.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    } 
+
+#Div3 {
+    float:right;
+    width:50%;
+    height: 500px;
+    margin-top: 1cm;
+    margin-right: 1cm;
+    text-align: center;
+    background-color: rgb(213, 212, 215); 
+    float:right;
+    border: 4px outset palevioletred;
+    position: relative;
+
+}
+h4 { 
+    align: center;
+}
+
+#Div2 { 
+    float:left;
+    width: 50%;
+    background-image: url('IMG_9076.jpg');
+    background-size: cover;
+    text-align: center;
+    border: 4px outset palevioletred;
+    color: black;
+    height:300px;
+    width:250px;
+    margin-top: 4cm;
+    margin-left: 3cm;
+}
+#Div1 {
+    float: center;
+    width: 50%;
+    margin-top: 1cm;
+    margin-right: 1cm;
+    background-color: rgb(213, 212, 215); 
+    text-align: center;
+    height:300px;
+    float:right;
+    border: 4px outset palevioletred;
+}
+
+.Div {
+    background-color: rgb(213, 212, 215);
+    border: 6px outset palevioletred;
+    align: center;
+    text-align: center;
+    margin top: 5cm;
+    margin-left: 10cm;
+    margin-right: 6cm;
+}
+
+.header{
+    text-align: center;
+    overflow:hidden;
+    font: bold italic black;
+    position: absolute;
+    top:0;
+    height: 20px;
+    width: 100%;
+}
+.Div4{
+    float:left;
+    margin-right:1cm;
+    font: bold italic black;
+    text-align: center;
+    
+}
+a:link {
+    color: black;
+  }
+  a:visited {
+    color: blueviolet
+  }
+  a:hover {
+    color: darkgray;
+  }
+  
